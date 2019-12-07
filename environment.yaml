@@ -1,4 +1,4 @@
-name: example-environment
+name: simple-env
 
 dependencies:
   - python=3.6
